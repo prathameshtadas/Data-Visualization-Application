@@ -1,0 +1,19 @@
+# Java / IDE generated files
+*.class
+bin/
+out/
+target/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
